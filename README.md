@@ -1,2 +1,2 @@
 # projetos-java
-Repositório para armazenamento do JAVA
+Repositório para armazenamento do JAVA.
